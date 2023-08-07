@@ -1,7 +1,7 @@
 # synthetic_geodata
 Python Synthetic Geodata Generation 
 Generating Synthetic Geo Data for Location-Studies : 
-A Short Tutorial
+A Short Tutorial,
 Ecologic Corporation, Puneet Arora 
 
 
